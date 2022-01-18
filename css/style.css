@@ -1,0 +1,17 @@
+html{
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Verdana', sans-serif;
+}
+
+.bg-bar {
+    background-color: #0b4586 !important;
+}
+
+.btn-button {
+    color: #000;
+    background-color: #94b8d7;
+    border-color: #0b4586;
+  }
